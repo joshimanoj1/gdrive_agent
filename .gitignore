@@ -1,0 +1,5 @@
+env/
+__pycache__/
+*.pyc
+*.json  # Excludes token.json and gcp-oauth.keys.json
+.DS_Store
